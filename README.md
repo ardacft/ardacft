@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @ardacft
-- 👀 I’m interested in arts & sciences in general. Physics in particular constitutes the main focus of my interests as an undergrad. student in physics. 
-Computer programming, gaming, game development, cinema, literature, electronic music, hobby engineering projects has become other fields of interest of mine recently.
-- 🌱 I’m currently learning quantum computing , q. mech, python, unity, c#, statistical mechanics.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm an undergrad physics student. In spare time, I go after and explore anything that I am curious about. Usually what keeps me motivated is to understand something or just to reach some level of appreciation on something alien to me. I also enjoy creating simple stuff, like simple programs, sounds, images, models etc for the same reason but also for communicating an idea through something more concrete and comprehendable. None professional experience, only some introductory level knowledge and experience.
 
 <!---
 ardacft/ardacft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
